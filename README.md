@@ -33,29 +33,3 @@ I'm currently a software engineering student at a prestigious university in Mala
     <a href="https://www.github.com/AdamIskandar-new" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/adam-iskandar-norsham-b03a9b2a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-
----
-
-### Assignments and Projects
-
-#### Assignments
-
-1. **Assignment 1: Report**
-   - [Download Assignment PDF](https://github.com/AdamIskandar-new/Adam-Iskandar/blob/main/WP%20SEC%2006%20GROUP%204.pdf)
-   - **Reflection:**
-     - I learn on how to run a Google Lighthouse and finally get a gist of understanding on the use of Inspect.
-     - I would love to have more time on it.
-
-3. **Assignment 2: Website**
-   - **Reflection:**
-     - Using html requires more skill than I had thought and it took me a while to understand completely.
-
-4. **Assignment 3: GitHub E-portfolio**
-   - **Reflection:**
-     - I learnt that it is a must for CS people to have a portfolio on GitHub.
-
-#### Project
-
-- **Student Info**
-  - **Reflection:**
-    - we needed more understanding on PHP, databases and more as it was proven so essential.
